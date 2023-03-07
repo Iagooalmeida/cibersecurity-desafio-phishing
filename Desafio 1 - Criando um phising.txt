@@ -1,0 +1,15 @@
+Criando um Phishing com Kali linux
+
+Passo a Passo
+
+1. Colocar a placa de rede no modo bridge
+2. Entrar no modo root com o sudo su
+3. Iniciar o setoolkit
+4. Selecione o tipo de ataque com umas das opções acima
+5. Seleciona 1 - ataque de engenharia social
+5.1 Mostra a lista de vetores de ataque
+6. Escolha a opção: 2 - vetor de ataque web.
+7. Escolha a opção: 3 - Credential Harvester Attack Method
+8. Escolha a opção: 2 - Site Cloner
+9. com o ip da maquina, coloque o endereço para rodar
+10. digite o ip da maquina(kali) no navegador.
